@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ivory_island/precache-manifest.eaf4cdec3a0aa565af2a32206a5845c2.js"
+  "/ivory_island/precache-manifest.dbf80090edbc0e7b067d176758978763.js"
 );
 
 workbox.clientsClaim();

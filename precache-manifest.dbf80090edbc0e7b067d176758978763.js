@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "2e98c0fb209c28f91010",
-    "url": "/ivory_island/static/css/main.4e03c312.chunk.css"
+    "revision": "964e55871e128ea62242",
+    "url": "/ivory_island/static/css/main.e35a2173.chunk.css"
   },
   {
-    "revision": "2e98c0fb209c28f91010",
+    "revision": "964e55871e128ea62242",
     "url": "/ivory_island/static/js/main.fc98e60d.chunk.js"
   },
   {
@@ -29,7 +29,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "fca4dc9a26b75edb555cbe45e8934a7b",
-    "url": "/ivory_island/static/media/img1.fca4dc9a.jpg"
+    "url": "/ivory_island/static/media/img6.fca4dc9a.jpg"
+  },
+  {
+    "revision": "44ad5870744fb2e31be1bb1c339589d3",
+    "url": "/ivory_island/static/media/img1.44ad5870.jpg"
   },
   {
     "revision": "723641e4a1987c0588f9ad1c3b2e27a6",
@@ -52,7 +56,7 @@ self.__precacheManifest = [
     "url": "/ivory_island/static/media/service_3.1a953ed4.jpg"
   },
   {
-    "revision": "61ecdd3a332e22c2a7c22c067fa840df",
+    "revision": "57530471dc4cfabc9d02e4ae86a941c1",
     "url": "/ivory_island/index.html"
   }
 ];
