@@ -105,7 +105,7 @@ export class Landing extends Component {
             className="row detail-row  py-5 px-5"
             style={{ backgroundColor: '#cbe0da' }}
           >
-            <div className="col-md-12 py-5 px-5">
+            <div className="col-md-12 py-3 px-3">
               <div className="row py-2 px-2">
                 <div className="col-md-12 text-center">
                   <h1 style={{ fontFamily: 'Srisakdi', fontSize: '5em' }}>
@@ -114,14 +114,17 @@ export class Landing extends Component {
                   </h1>
                 </div>
               </div>
-              <div className="row py-5 px-5">
+              <div className="row py-5 px-5 ">
                 <div className="col-md-12">
                   <span>
-                    The href attribute requires a valid value to be accessible.
-                    Provide a valid, navigable address as the href value. If you
-                    cannot provide a valid href, but still need the element to
-                    resemble a link, use a button and change it with appropriate
-                    styles.
+                    A place filled with tranquil, serene atmosphere. The best
+                    medicine for your monotonous life. Satisfy all your taste
+                    buds and feel like home with authentic food and other sapid,
+                    redolent cuisine. Its simply a unique place to enjoy with
+                    your loved ones. specially, for an outing or a Day trip.
+                    Fascinating boat ride to the premises. If you are an
+                    adventurous nature lover, this place is for you! Come, feel
+                    the nature.. because now, The Nature has an Address
                   </span>
                 </div>
               </div>
