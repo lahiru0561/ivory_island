@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "12b25204e4b3f16142ed",
+    "revision": "2e98c0fb209c28f91010",
     "url": "/ivory_island/static/css/main.4e03c312.chunk.css"
   },
   {
-    "revision": "12b25204e4b3f16142ed",
-    "url": "/ivory_island/static/js/main.73211068.chunk.js"
+    "revision": "2e98c0fb209c28f91010",
+    "url": "/ivory_island/static/js/main.fc98e60d.chunk.js"
   },
   {
     "revision": "7fc47625265a6e1dbf64",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/ivory_island/static/media/service_3.1a953ed4.jpg"
   },
   {
-    "revision": "a2edd96b73d28de3978e4c88aa0df1fb",
+    "revision": "61ecdd3a332e22c2a7c22c067fa840df",
     "url": "/ivory_island/index.html"
   }
 ];
