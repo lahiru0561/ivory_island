@@ -130,6 +130,7 @@ export class Landing extends Component {
               </div>
             </div>
           </div>
+          {/* <div className="row background-img-parallax img3">img</div> */}
           <div
             className="row py-5 px-5"
             style={{ backgroundColor: '#222222', color: '#fff' }}
@@ -332,6 +333,7 @@ export class Landing extends Component {
               Beauty has an address...
             </div>
           </div>
+
           <div className="row footer-row">
             <div className="col-md-12 py-5 px-5 footer-col items-center ">
               <footer className="bg-dark text-white mt-5 p-4 text-center">

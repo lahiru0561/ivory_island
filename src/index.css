@@ -33,6 +33,12 @@ code {
   background-image: url('./images/img2.jpg');
   object-fit: cover;
 }
+.img3 {
+  /* The image used */
+  background-image: url('./images/img6.jpg');
+  object-fit: cover;
+  height: 10vw;
+}
 
 .detail-row {
   min-height: 60vh;
@@ -65,7 +71,7 @@ code {
 .final-detail-col {
   background-color: rgba(34, 34, 34, 0.5);
   color: #ffffff;
-  height: 10em;
+  height: 30vw;
   width: 100%;
   font-family: 'Srisakdi';
   font-size: 5em;
@@ -86,14 +92,8 @@ code {
   }
 }
 @media only screen and (max-width: 1400px) {
-  .final-detail-col {
-    height: 9em;
-  }
 }
 @media only screen and (max-width: 1200px) {
-  .final-detail-col {
-    height: 5em;
-  }
 }
 @media only screen and (max-width: 768px) {
   .services-img {
@@ -103,17 +103,10 @@ code {
     object-fit: cover;
   }
   .final-detail-col {
-    height: 4em;
     font-size: 2em;
   }
 }
 @media only screen and (max-width: 600px) {
-  .final-detail-col {
-    height: 3em;
-  }
 }
 @media only screen and (max-width: 500px) {
-  .final-detail-col {
-    height: 3em;
-  }
 }
